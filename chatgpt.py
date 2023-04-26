@@ -1,3 +1,6 @@
+#Call this program in terminal with: python chatgpt.py
+
+
 import openai
 
 
